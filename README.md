@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadit Juneja</h1>
 <h3 align="center">A 16 year old fullstack developer</h3>
 
-- 🌱 I’m currently learning **Tensorflow, Django**
+- 🌱 I’m currently learning **PyTorch, Django**
 
 - 👯 I’m looking to collaborate on [Monte Carlo Integral Calculator](https://github.com/ajuneja23/montecarlointegralcalculatorapp)
 
