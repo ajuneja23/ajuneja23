@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Monte Carlo Integral Calculator](https://github.com/ajuneja23/montecarlointegralcalculatorapp)
 
-- 👨‍💻 All of my projects are available at [ajuneja23.github.io](ajuneja23.github.io)
+- 👨‍💻 I'm passionate about **Consistently learning and growing**
 
 - 📫 How to reach me **aadit.juneja12@gmail.com**
 
