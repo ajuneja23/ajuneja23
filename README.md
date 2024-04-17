@@ -3,5 +3,3 @@
 
 - 📫 How to reach me **aaditj@wharton.upenn.edu**
 
-- ⚡ Fun fact **I learned very late that Washington and Washington DC were not the same.**
-- 💻 Visit my **[website](https://aaditj.netlify.app/)**! 
