@@ -2,5 +2,5 @@
 
 
 - 📫 How to reach me **aadit@aaditjuneja.com**
-- check out my site @ aaditjuneja.com
+- check out my site: aaditjuneja.com
 
